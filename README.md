@@ -6,12 +6,9 @@
 
 <img src="https://github.com/pranavpagare/portfolio/blob/master/Rated_locality.png"> <img src="https://github.com/pranavpagare/portfolio/blob/master/cuisine.png">
 
-# Project 2 - IPLDataAnalysis(SQL)
+# Project 2 - IPLDataAnalysis(SQL,python)
 1. Worked on two databases which contained ball-by-ball data of all IPL matches and one more which contained match information.
-2. Run multiple queries to suggest:
-      <li>a.What to choose against a team/in a venue if you win a toss.</li>
-      <li>b.Who is the best bowler/batsman in terms of strike-rate, economy/average and when should they ball/bat.</li>
-      <li>c.Who are underrated and overrated players.</li>
+2. Gathered insight on every player based on
 
 
 
