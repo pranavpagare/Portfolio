@@ -8,8 +8,7 @@
 
 # Project 2 - IPLDataAnalysis(SQL,python)
 1. Worked on two databases which contained ball-by-ball data of all IPL matches and one more which contained match information.
-2. Gathered insight on every player based on
-
+2. Defined functions to compare performances of two players.
 <img src="https://github.com/pranavpagare/portfolio/blob/master/V%20Kohli-RG%20Sharma.png"> <img src="https://github.com/pranavpagare/portfolio/blob/master/ballsperover.png">
 
 
