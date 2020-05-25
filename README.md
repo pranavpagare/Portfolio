@@ -1,5 +1,9 @@
 # Pranav-Pagare
 
+# Project 1 - Zomato
+<img src="https://github.com/pranavpagare/portfolio/blob/master/Rated_locality.png">
+<img src="https://github.com/pranavpagare/portfolio/blob/master/cuisine.png">
+
 # Project 2 - IPLDataAnalysis(SQL)
 1. Worked on two databases which contained ball-by-ball data of all IPL matches and one more which contained match information.
 2. Run multiple queries to suggest:
@@ -7,6 +11,5 @@
   b) Who is the best bowler/batsman in terms of strike-rate, economy/average and when should they ball/bat.
   c) Who are underrated and overrated players.
 
-### Project 1 - Zomato
-<img src="https://github.com/pranavpagare/portfolio/blob/master/Top%2010%20cuisines.png">
+
 
