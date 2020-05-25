@@ -1,8 +1,7 @@
 # Pranav-Pagare
 
 # Project 1 - Zomato
-<img src="https://github.com/pranavpagare/portfolio/blob/master/Rated_locality.png">
-<img src="https://github.com/pranavpagare/portfolio/blob/master/cuisine.png">
+<img src="https://github.com/pranavpagare/portfolio/blob/master/Rated_locality.png"> <img src="https://github.com/pranavpagare/portfolio/blob/master/cuisine.png">
 
 # Project 2 - IPLDataAnalysis(SQL)
 1. Worked on two databases which contained ball-by-ball data of all IPL matches and one more which contained match information.
