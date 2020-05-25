@@ -8,4 +8,4 @@
   c) Who are underrated and overrated players.
 
 ## Project 1 - Zomato
-(https://github.com/pranavpagare/Pranav-Pagare/blob/master/download%20(1).png)
+<img src="https://github.com/pranavpagare/Pranav-Pagare/blob/master/download%20(1).png">
