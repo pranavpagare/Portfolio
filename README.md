@@ -9,5 +9,4 @@
 
 ### Project 1 - Zomato
 <img src="https://github.com/pranavpagare/portfolio/blob/master/Top%2010%20cuisines.png">
-<img src="https://github.com/pranavpagare/portfolio/blob/master/Chains.png">
 
