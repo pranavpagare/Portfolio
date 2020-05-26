@@ -2,7 +2,7 @@
 - SQL, Python, Tableau.
 - Exploratory Data analytics, insights and presentation.
 
-<a href="https://github.com/pranavpagare/ZomatoIndiaDataset">## Project 1 - Zomato (Python)</a
+<a href="https://github.com/pranavpagare/ZomatoIndiaDataset">## Project 1 - Zomato (Python)</a>
 1. Worked on 1.2m lines of Zomato database.
 2. Clean and correct the data for further analysis. 
 3. Run exploratory data analysis, gathered insights on various aspects like cuisine, cost, rating etc.
