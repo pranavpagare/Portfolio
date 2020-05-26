@@ -4,8 +4,9 @@
 
 ## Project 1 - Zomato (Python)
 1. Worked on 1.2m lines of Zomato database.
-2. Run exploratory data analysis.
-
+2. Clean and correct the data for further analysis. 
+3. Run exploratory data analysis, gathered insights on various aspects like cuisine, cost, rating etc.
+ 
 <img src="https://github.com/pranavpagare/portfolio/blob/master/Rated_locality.png"> <img src="https://github.com/pranavpagare/portfolio/blob/master/cuisine.png">
 
 ## Project 2 - IPLDataAnalysis(SQL,python)
