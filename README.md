@@ -1,4 +1,6 @@
 # Pranav-Pagare
+- SQL, Python, Tableau.
+- Exploratory Data analytics, insights and presentation.
 
 # Project 1 - Zomato (Python)
 1. Worked on 1.2m lines of Zomato database.
